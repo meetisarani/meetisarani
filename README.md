@@ -5,9 +5,9 @@
 - 💞️ I’m looking for full time or internship opportunities.
 - 📫 Mail me at meetisarani27@gmail.com 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Meet’s github stats](https://github-readme-stats.vercel.app/api?username=meetisarani)](https://github.com/meetisarani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetisarani&layout=compact)](https://github.com/meetisarani)
 
 <!---
 meetisarani/meetisarani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
