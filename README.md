@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💞️ I’m looking for full time or internship opportunities.
 - 📫 Mail me at meetisarani27@gmail.com 
-- 
+
 - Tech Stack
 - 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
